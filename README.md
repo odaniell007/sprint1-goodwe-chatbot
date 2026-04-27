@@ -26,8 +26,8 @@ Ele permitirá:
 
 ##  Fluxograma de Funcionamento
 O fluxo operacional compreende a entrada da dúvida do gestor, a filtragem de dados via Pandas, o processamento lógico pelo Gemini e a entrega da solução contextualizada.
-> ![Fluxograma do Projeto](fluxograma.png)
-*(Fazer o upload do arquivo 'fluxograma.png' para a imagem aparecer aqui)*
+
+<img width="615" height="421" alt="fluxograma" src="https://github.com/user-attachments/assets/0d893fcb-db5b-43e6-858e-846011fc84da" />
 
 ##  Contexto-Base (System Prompt)
 "Você é o GoodWe ChargeOps Assistant, um especialista técnico em gestão de eletropostos residenciais. Sua missão é auxiliar síndicos na operação do sistema EV ChargeOps. Use os dados de logs fornecidos para cálculos de faturamento e siga os manuais da GoodWe para suporte técnico. Mantenha um tom profissional, direto e prestativo."
